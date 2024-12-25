@@ -43,7 +43,7 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, sade ve modern bir ta
 
 ## Ekran Görüntüsü
 
-(Ekran görüntüsü eklemek için bu kısmı güncelleyebilirsiniz.)
+<a href="https://www.linkedin.com/in/elfgk/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ---
 
