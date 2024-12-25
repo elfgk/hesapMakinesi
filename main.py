@@ -54,7 +54,7 @@ button_texts = [
     ["<"]
 ]
 
-#buton ekle
+#buton
 for i, row in enumerate(button_texts):
     frame = tk.Frame(root, bg="#f9f3f3")  # Arka plan rengi uyumu
     frame.pack()
