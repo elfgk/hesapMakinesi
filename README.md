@@ -43,7 +43,9 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, sade ve modern bir ta
 
 ## Ekran Görüntüsü
 
-<img src="pp.png" >
+<img src="pp.png" style="width: 50%;"  >
+
+
 
 ---
 
