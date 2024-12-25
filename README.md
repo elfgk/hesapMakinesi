@@ -1,6 +1,6 @@
 # Hesap Makinesi
 
-Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, sade ve modern bir tasarıma sahip bir masaüstü hesap makinesidir. Kullanıcılar yalnızca fare ile işlem yapabilir ve matematiksel işlemlerini kolaylıkla gerçekleştirebilir.
+Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, sade ve modern bir tasarıma sahip bir masaüstü hesap makinesidir. Kullanıcılar  matematiksel işlemlerini kolaylıkla gerçekleştirebilir.
 
 ---
 
@@ -36,7 +36,7 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, sade ve modern bir ta
    python hesap_makinesi.py
    ```
 
-5. Hesap makinesi arayüzü açıldığında, fare ile işlemlerinizi yapabilirsiniz.
+5. Hesap makinesi arayüzü açıldığında işlemlerinizi yapabilirsiniz.
 
 ---
 
